@@ -1,0 +1,11 @@
+Features:
+- Rendering arbitrarily oriented ellipsoids (spheres with transformations)
+- Rendering polygons
+- Simple Phong Shading
+- Shadows
+- Reflections
+- Linear transformations
+- Point and directional lights
+- Output to .png
+- Spot lights
+- AABBs

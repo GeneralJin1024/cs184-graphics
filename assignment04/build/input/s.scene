@@ -1,0 +1,16 @@
+xft 1 1 1
+xfs 0.5 0.2 0.2
+xfr 1 0 1 2
+bez input/teapot.bez
+xfz
+xfr 1 1 1 2
+xfs 0.2 0.2 0.4
+bez input/arch.bez
+xfz
+xfr 1 1 0 2
+xfs 0.3 0.3 0.8
+bez input/teacup.bez
+xfz
+obj input/cow-nonormals.obj
+xfz
+obj input/teddy.obj
