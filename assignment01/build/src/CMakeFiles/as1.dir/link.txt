@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -m64 -I/usr/include/libpng12 -L/usr/lib/x86_64-linux-gnu -lpng12 -O3 -fopenmp    CMakeFiles/as1.dir/example_01.cpp.o  -o ../as1 -rdynamic ../glew/libglew.a ../glew/libglew.a ../glfw-3.2.1/src/libglfw3.a -lGLU -lGL -lSM -lICE -lX11 -lXext -lrt -lm -ldl -lpthread -lXrandr -lXinerama -lXxf86vm -lXcursor -lX11 
